@@ -1,2 +1,2 @@
 # odin-recipes
-A recipie website from the Odin Project curriculum on html foundations
+A recipe website from the Odin Project curriculum on html foundations
