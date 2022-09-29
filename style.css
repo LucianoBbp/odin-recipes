@@ -1,0 +1,23 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  background: rgb(232, 52, 52);
+}
+
+.main-title {
+  text-align: center;
+}
+
+li a {
+  font-size: 22px;
+}
+
+
+.noodle {
+  height: auto;
+  width: 500px;
+}
+
+.cake {
+  height:auto;
+  width: 400px;
+}
